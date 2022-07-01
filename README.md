@@ -1,8 +1,7 @@
 ### Hi there 👋
-Let's code everything!
+工作写 Java，闲时折腾一切
 
-* 博客地址: [https://github.com/Bpazy/blog](https://github.com/Bpazy/blog)
-* 我正在做的事情: [@Bpazy's project](https://github.com/users/Bpazy/projects/2)
+* 博客: [https://github.com/Bpazy/blog](https://github.com/Bpazy/blog)
 
 
 ![](https://github-readme-stats.vercel.app/api?username=Bpazy&show_icons=true)
