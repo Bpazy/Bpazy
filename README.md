@@ -1,5 +1,4 @@
-
-### Hi there 👋
+### Hi there
  👨‍👩‍👧‍👧 Working on Java but code everything
  
  🤪 想法很多，仓库不少
@@ -7,9 +6,9 @@
  📖 博客: [https://github.com/Bpazy/blog](https://github.com/Bpazy/blog)
 
 ---------
-
+### :zap: Recent Activity
 <!--START_SECTION:activity-->
-
+<!--END_SECTION:activity-->
 
 -------------
 
