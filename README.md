@@ -8,22 +8,22 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+&nbsp;![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=Go)&nbsp;
 ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=Rust)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;\
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+&nbsp;![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
 ![Elastic](https://img.shields.io/badge/-Elastic-05122A?style=flat&logo=Elastic)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![kafka](https://img.shields.io/badge/-kafka-05122A?style=flat&logo=apachekafka)&nbsp;\
-![linux](https://img.shields.io/badge/-linux-05122A?style=flat&logo=linux)&nbsp;
+&nbsp;![linux](https://img.shields.io/badge/-linux-05122A?style=flat&logo=linux)&nbsp;
 ![mysql](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp;
 ![nginx](https://img.shields.io/badge/-nginx-05122A?style=flat&logo=nginx)&nbsp;
 ![redis](https://img.shields.io/badge/-redis-05122A?style=flat&logo=redis)&nbsp;
 ![spring](https://img.shields.io/badge/-spring-05122A?style=flat&logo=spring)&nbsp;\
-![nodejs](https://img.shields.io/badge/-node.js-05122A?style=flat&logo=nodedotjs)&nbsp;
+&nbsp;![nodejs](https://img.shields.io/badge/-node.js-05122A?style=flat&logo=nodedotjs)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
@@ -33,4 +33,4 @@
 </a>
 </p>
 
-<img align="" src="https://activity-graph.herokuapp.com/graph?username=Bpazy&theme=nord&color=41b883&point=41b883&hide_border=true&line=959598&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" />
+<img align="" height="360em" src="https://activity-graph.herokuapp.com/graph?username=Bpazy&theme=nord&color=41b883&point=41b883&hide_border=true&line=959598&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" />
