@@ -1,18 +1,36 @@
-### Hi there
- 👨‍👩‍👧‍👧 Working on Java but code everything
- 
- 🤪 想法很多，仓库不少
- 
- 📖 博客: [https://github.com/Bpazy/blog](https://github.com/Bpazy/blog)
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Bpazy</h2>
 
----------
-### :zap: Recent Activity
+### 👨🏻‍💻 &nbsp;About Me
 
-<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
+* &nbsp;Working on Java but code everything.
+* &nbsp;A lot of ideas, a lot of repositories.
+* &nbsp;Blog: [Bpazy/blog](https://github.com/Bpazy/blog)
 
--------------
+### 🛠 &nbsp;Tech Stack
 
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=Go)&nbsp;
+![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=Rust)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;\
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
+![Elastic](https://img.shields.io/badge/-Elastic-05122A?style=flat&logo=Elastic)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![kafka](https://img.shields.io/badge/-kafka-05122A?style=flat&logo=apachekafka)&nbsp;\
+![linux](https://img.shields.io/badge/-linux-05122A?style=flat&logo=linux)&nbsp;
+![mysql](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp;
+![nginx](https://img.shields.io/badge/-nginx-05122A?style=flat&logo=nginx)&nbsp;
+![redis](https://img.shields.io/badge/-redis-05122A?style=flat&logo=redis)&nbsp;
+![spring](https://img.shields.io/badge/-spring-05122A?style=flat&logo=spring)&nbsp;\
+![nodejs](https://img.shields.io/badge/-node.js-05122A?style=flat&logo=nodedotjs)&nbsp;
+
+### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
-<img align="" src="https://github-readme-stats.vercel.app/api?username=Bpazy&hide_title=true&hide_border=true&show_icons=true&line_height=21&border_radius=0&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" /><img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bpazy&hide_title=true&hide_border=true&layout=compact&border_radius=0&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00&hide=css" />
+<a href="https://github.com/Bpazy">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bpazy&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bpazy&layout=compact&langs_count=6&hide=css"/>
+</a>
 </p>
-<img align="" width="99.9%" src="https://activity-graph.herokuapp.com/graph?username=Bpazy&theme=nord&color=41b883&point=41b883&hide_border=true&line=959598&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" />
+
+<img align="" src="https://activity-graph.herokuapp.com/graph?username=Bpazy&theme=nord&color=41b883&point=41b883&hide_border=true&line=959598&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" />
