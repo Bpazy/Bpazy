@@ -31,6 +31,4 @@
 <a href="https://github.com/Bpazy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bpazy&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bpazy&layout=compact&langs_count=6&hide=css"/>
-<img align="" height="310em" src="https://activity-graph.herokuapp.com/graph?username=Bpazy&theme=nord&color=41b883&point=41b883&hide_border=true&line=959598&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" />
-</a>
 </p>
