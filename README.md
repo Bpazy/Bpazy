@@ -33,7 +33,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bpazy&layout=compact&langs_count=6&hide=css"/>
 </p>
 
-### ⚙️ &nbsp;2023 Running
-<p align="center">
-  <a href="https://running.ziyuan360.host"><img height="250" src="https://raw.githubusercontent.com/Bpazy/my_running_page/master/assets/github_2023.svg"/></a>
+### ⚙️ &nbsp;Running
+<p >
+  <a href="https://running.ziyuan360.host"><img src="https://raw.githubusercontent.com/Bpazy/my_running_page/master/assets/github_2023.svg"/></a>
 </p>
