@@ -5,6 +5,7 @@
 * &nbsp;Working on Java but code everything.
 * &nbsp;A lot of ideas, a lot of repositories.
 * &nbsp;Blog: [Bpazy/blog](https://github.com/Bpazy/blog)
+* &nbsp;[Running Page](https://running.ziyuan360.host)
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -31,9 +32,4 @@
 <a href="https://github.com/Bpazy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bpazy&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bpazy&layout=compact&langs_count=6&hide=css"/>
-</p>
-
-### 🏃‍♂️ &nbsp;Running
-<p >
-  <a href="https://running.ziyuan360.host"><img src="https://raw.githubusercontent.com/Bpazy/my_running_page/master/assets/github_2023.svg"/></a>
 </p>
