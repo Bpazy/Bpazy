@@ -26,6 +26,7 @@
 ![redis](https://img.shields.io/badge/-redis-05122A?style=flat&logo=redis)&nbsp;
 ![spring](https://img.shields.io/badge/-spring-05122A?style=flat&logo=spring)&nbsp;
 ![nodejs](https://img.shields.io/badge/-node.js-05122A?style=flat&logo=nodedotjs)&nbsp;
+![k8s](https://img.shields.io/badge/-kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
